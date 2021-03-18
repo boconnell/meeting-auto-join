@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "date-fns": "^2.18.0",
+    "googleapis": "^39.2.0",
+    "open": "^8.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  }
+}
