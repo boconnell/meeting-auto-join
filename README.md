@@ -3,7 +3,8 @@
 - Fetches upcoming events via the GCal API
 - Looks for any event that is about to start and that you have marked yourself as attending
 - Opens any zoom meeting links it finds in the event
-  It's intended to be run periodically (e.g. via cron) and stores a record of which meetings it has already opened so as to not double-open them.
+ 
+It's intended to be run periodically (e.g. via cron) and stores a record of which meetings it has already opened so as to not double-open them.
 
 # How to Use
 
